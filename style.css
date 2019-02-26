@@ -1,0 +1,147 @@
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    
+}
+
+#ranking {
+    color: gray; 
+    width: 316px; 
+    height: 46px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Verdana, sans-serif;
+    font-size: 14px;
+    opacity: 100%;
+ }
+ 
+ #border {
+    border: 2px outset; 
+    width: 959px;
+    height: 549px;
+} 
+#big-container{
+    position: relative;
+    left:120px;
+    top: 50px;
+    
+}
+#container{
+    position: relative;
+    bottom: 466px;
+    left:35px;
+}
+#img {
+    height: 550px; 
+    width: 600px;
+    opacity: 100%;
+    position: relative;
+    left: 360px;
+}
+
+#method {
+    color: rgb(13, 207, 55); 
+    width: 316px; 
+    height: 46px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Verdana, sans-serif ;
+     font-size: 14px;
+     opacity: 100%;
+     text-decoration: none;
+}
+#hi {
+    font-family: Verdana,Tahoma, sans-serif;
+    font-size: 18px;
+    opacity: 100%;
+}
+
+#formbackgrd {
+    background-color: rgb(238, 237, 237); 
+    width: 360px;
+    height: 284px;
+    position: relative;
+    right: 35px;
+}
+
+
+#label {
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    width: 87px;
+    height: 19px;
+    position: relative;
+    top: 19px;
+    
+    }
+
+    #email {
+        padding: 9px 9px 9px 9px;
+        width: 278px;
+        height: 18px;
+        opacity: 100%;
+        box-shadow: 0px;
+        background-color: white;
+        position: relative;
+        top: 25px;
+        border: 0.1px outset;
+        border-radius: 2px;
+}
+
+#label1 {
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    width: 60px;
+    height: 19px;
+    opacity: 100%;
+    position: relative;
+    top: 41px;
+}
+#label2 {
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    width: 60px;
+    height: 19px;
+    opacity: 100%;
+    position: relative;
+    top: 41px;
+    right: -76px;
+}
+
+#password {
+    padding: 9px 9px 9px 9px;
+        width: 278px;
+        height: 18px;
+        opacity: 100%;
+        box-shadow: 0px;
+        background-color: white;
+        position: relative;
+        top: 49px;
+        border: 0.1px outset;
+        border-radius: 2px;
+}
+
+#sign {
+    position: relative;
+    top: 63px;
+    background-color: #4CAF50;
+  color: white;
+
+  margin: 2px 0;
+  border: none;
+  cursor: pointer;
+  width: 82%;
+  height: 35px;
+  border-radius: 5px;
+  
+}
+#span {
+    position: relative;
+    top: 74px;
+    right: -21px;
+
+}
+#frm {
+    position: relative;
+    left: 32px;
+}
+#move {
+    position: relative;
+    right: -13px;
+}
